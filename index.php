@@ -678,10 +678,10 @@
                         </div>
                         <h3 class="h3-sp">De matrices y otras metáforas del Machine Learning</h3>
                         <p>Expositor: Dr. Iván Vladimir Meza Ruiz</p>
-                        <a class="btn btn-white" href="#" data-toggle="modal" data-target="#modalGitPyNoP">Más info</a>
+                        <a class="btn btn-white" href="#" data-toggle="modal" data-target="#modalDeMatrices">Más info</a>
                     </div>
                     <!-- Modal -->
-                    <div class="modal fade" id="modalGitPyNoP" role="dialog">
+                    <div class="modal fade" id="modalDeMatrices" role="dialog">
                         <div class="modal-dialog">
 
                             <!-- Contenido de la ventana modal-->
