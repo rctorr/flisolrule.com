@@ -409,8 +409,59 @@
                             <time datetime="10:30"></time> - <time datetime="11:00"></time>
                         </div>
                         <h3 class="h3-sp">La influencia de la filosofía del SL en la industria de la Seguridad Informática</h3>
-                        <p></p>
+                        <p>Instructor: Hiram Alejandro Camarillo</p>
+                        <a class="btn btn-white" href="#" data-toggle="modal" data-target="#modalSeguridad">Más info</a>
                     </div>
+
+                    <!-- Modal -->
+                    <div class="modal fade" id="modalSeguridad" role="dialog">
+                        <div class="modal-dialog">
+
+                            <!-- Contenido de la ventana modal-->
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    <h4 class="modal-title">La influencia de la filosofía del SL en la industria de la Seguridad Informática</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <h4>
+                                    Instructor: Hiram Alejandro Camarillo
+                                    </h4>
+                                    <h4>Resumen:</h4>
+                                    <p>Millones de desarrolladores alrededor del mundo comparten sus herramientas, contribuyen, revisan y analizan proyectos Open Source. "Cuando las personas curiosas tienen espacio para trabajar juntas, suceden cosas grandiosas: el trabajo va más rápido, surgen nuevas ideas y la forma en que construimos el software cambia fundamentalmente.".</p>
+                                    <p>En promedio se han desarrollado más de 200 herramientas por año en los últimos años, muchas de ellas consideradas como las mejores comenzaron algún día como un pequeño proyecto liberado para la comunidad.</p>
+
+                                    <h4>
+                                    BIO:
+                                    </h4>
+                                    <div class="speaker">
+                                        <h4>Hiram Alejandro Camarillo</h4>
+                                        <ul class="social-block">
+                                            <li>
+                                                <a href="https://twitter.com/hiramcoop"
+                                                target="_blank">
+                                                    <i class="ion-social-twitter"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                        <p>
+                                            <figure class="pull-left">
+                                                <img alt="foto Hiram Alejandro Camarillo"
+                                                class="img-responsive img-thumbnail" src="assets/images/speakers/hiramcoop-600.jpg">
+                                            </figure>
+                                            Aficionado a la Seguridad informática y a la Ciberseguridad desde hace varios ayeres. Escribo posts de seguridad en mis redes sociales y en algunas fan page para concienciar a las personas de los riesgos que existen, colaboro en FLISOLes desde hace 10 años, soy co-fundador de Seekurity, colaboro en algunas investigaciones de infosec/cybersec para hacer del Internet un lugar mejor. Desde hace 15 años entré al mundo del software libre y su filosofía me ha ayudado en toda mi carrera profesional y personal.
+                                        </p>
+                                    </div><!-- termina speaker -->
+
+
+                                    <p></p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- Termina Modal -->
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="schedule-box">
@@ -427,8 +478,58 @@
                             <time datetime="16:30"></time> - <time datetime="17:30"></time>
                         </div>
                         <h3 class="h3-sp">También hay Hardware Libre</h3>
-                        <p></p>
+                        <p>Instructor: Andres Sabas</p>
+                        <a class="btn btn-white" href="#" data-toggle="modal" data-target="#modalHardwareLibre">Más info</a>
                     </div>
+
+                    <!-- Modal -->
+                    <div class="modal fade" id="modalHardwareLibre" role="dialog">
+                        <div class="modal-dialog">
+
+                            <!-- Contenido de la ventana modal-->
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    <h4 class="modal-title">También hay Hardware Libre</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <h4>
+                                    Instructor: Andres Sabas
+                                    </h4>
+                                    <h4>Resumen:</h4>
+                                    <p>En esta charla hablaremos sobre el hardware libre, sus especificaciones, sus diferencias contra el software libre y veremos algunos ejemplos exitosos de hardware libre</p>
+
+                                    <h4>
+                                    BIO:
+                                    </h4>
+                                    <div class="speaker">
+                                        <h4>Andres Sabas</h4>
+                                        <ul class="social-block">
+                                            <li>
+                                                <a href="https://twitter.com/sabasacustico"
+                                                target="_blank">
+                                                    <i class="ion-social-twitter"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                        <p>
+                                            <figure class="pull-left">
+                                                <img alt="foto Andres Sabas"
+                                                class="img-responsive img-thumbnail" src="assets/images/speakers/andres-sabas-600.jpg">
+                                            </figure>
+                                            Egresado del Instituto Tecnologico de Aguascalientes de la carrera en Ingenieria Electronica, Co-Fundador de The Inventors House primer hackerspace y coworking en Aguascalientes, Co-Fundador y Director General de Electronic Cats Hardware libre hecho en México, A participado en diversos congresos impartiendo charlas sobre hardware libre y el movimiento maker, Experiencia como capacitor en microcontroladores y sistemas embebidos, Miembro activo de la comunidad Makers México, Creador de pasaporte Hackerspace en Español, Colaborador de los programas Aguascalientes al Espacio y Michoacan al Espacio.
+                                        </p>
+                                    </div><!-- termina speaker -->
+
+
+                                    <p></p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- Termina Modal -->
                 </div>
             </div>
 
@@ -448,8 +549,62 @@
                             <time datetime="11:00"></time> - <time datetime="11:30"></time>
                         </div>
                         <h3 class="h3-sp">Creando servicios para la industria sin software privativo</h3>
-                        <p></p>
+                        <p>Instructor: Irving Emmanuel Gonzalez</p>
+                        <a class="btn btn-white" href="#" data-toggle="modal" data-target="#modalCreandoServicios">Más info</a>
                     </div>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="modalCreandoServicios" role="dialog">
+                        <div class="modal-dialog">
+
+                            <!-- Contenido de la ventana modal-->
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    <h4 class="modal-title">Creando servicios para la industria sin software privativo</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <h4>
+                                    Instructor: Irving Emmanuel Gonzalez
+                                    </h4>
+
+                                    <h4>Resumen:</h4>
+                                    <p>“Creando servicios para la industria sin software privativo” habla de nuestra experiencia vendiendo productos digitales creados con software libre en la industria de manufactura, donde hasta el momento solo compran grandes soluciones a empresas como Microsoft. SAP, Oracle, etc. También de la dificultad de que los inversionistas crean en que un proyecto que es mantenido por la comunidad pueda trascender en el tiempo.</p>
+
+                                    <h4>
+                                    BIO:
+                                    </h4>
+                                    <div class="speaker">
+                                        <h4>Irving Emmanuel Gonzalez</h4>
+                                        <ul class="social-block">
+                                            <li>
+                                                <a href="https://twitter.com/kodamirmo"
+                                                target="_blank">
+                                                    <i class="ion-social-twitter"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                        <p>
+                                            <!-- figure class="pull-left">
+                                                <img alt="foto Irving Emmanuel Gonzalez"
+                                                class="img-responsive img-thumbnail" src="assets/images/speakers/irving-emmanuel-600.jpg">
+                                            </figure-->
+                                            Irving es una apasionado por la tecnología, estudio Ingeniería Electrónica pero por los últimos 6 años encontró su camino en el software y hardware. Ha trabajado en múltiples proyectos con gente de alrededor del mundo lo que le ha permitido aprender de ellos no solo técnicamente si no culturalmente.
+                                        </p>
+                                        <p>
+                                            En los últimos años se ha dedicado a construir productos digitales para sectores de nicho, y compartiendo con otras organizaciones los conocimientos adquiridos en ese tiempo.
+                                        </p>
+                                    </div><!-- termina speaker -->
+
+
+                                    <p></p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                                </div>
+                            </div>
+                        </div>
+                        </div><!-- Termina Modal -->
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="schedule-box">
@@ -457,8 +612,61 @@
                             <time datetime="16:30"></time> - <time datetime="17:30"></time>
                         </div>
                         <h3 class="h3-sp">Hackeando tu mente</h3>
-                        <p></p>
+                        <p>Instructor: Mónica Hernández</p>
+                        <a class="btn btn-white" href="#" data-toggle="modal" data-target="#modalHackMente">Más info</a>
                     </div>
+
+                    <!-- Modal -->
+                    <div class="modal fade" id="modalHackMente" role="dialog">
+                        <div class="modal-dialog">
+
+                            <!-- Contenido de la ventana modal-->
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    <h4 class="modal-title">Hackeando tu mente</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <h4>
+                                    Instructor: Mónica Hernández
+                                    </h4>
+
+                                    <h4>Resumen:</h4>
+                                    <p>Esta plática explica de manera general el funcionamiento del cerebro, las ondas que se relacionan a las acciones que efectuamos.</p>
+                                    <p>Además expone avances de la ciencia y la tecnología que han permitido establecer una comunicación BCI (cerebro-computadora) para con el poder de nuestra mente ejercer acciones como mover objetos, y
+                                    ejemplos de lo que está haciendo la gente con las ondas cerebrales.</p>
+
+                                    <h4>
+                                    BIO:
+                                    </h4>
+                                    <div class="speaker">
+                                        <h4>Mónica Hernández</h4>
+                                        <ul class="social-block">
+                                            <li>
+                                                <a href="https://twitter.com/Kaia_6"
+                                                target="_blank">
+                                                    <i class="ion-social-twitter"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                        <p>
+                                            <figure class="pull-left">
+                                                <img alt="foto Mónica Hernández"
+                                                class="img-responsive img-thumbnail" src="assets/images/speakers/monica-hernandez-600.jpg">
+                                            </figure>
+                                             Ing en Tecnologías de la información y comunicaciones, conferencista en temas de tecnologías. Fundadora del medio y comunidad HackerGirl s. Geek, gamer, tech Love.
+                                        </p>
+                                    </div><!-- termina speaker -->
+
+
+                                    <p></p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- Termina Modal -->
                 </div>
             </div>
 
@@ -469,9 +677,52 @@
                             <time datetime="10:30"></time> - <time datetime="11:00"></time>
                         </div>
                         <h3 class="h3-sp">De matrices y otras metáforas del Machine Learning</h3>
-                        <p></p>
-
+                        <p>Expositor: Dr. Iván Vladimir Meza Ruiz</p>
+                        <a class="btn btn-white" href="#" data-toggle="modal" data-target="#modalGitPyNoP">Más info</a>
                     </div>
+                    <!-- Modal -->
+                    <div class="modal fade" id="modalGitPyNoP" role="dialog">
+                        <div class="modal-dialog">
+
+                            <!-- Contenido de la ventana modal-->
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    <h4 class="modal-title">De matrices y otras metáforas del Machine Learning</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <h4>
+                                    Expositor: Dr. Iván Vladimir Meza Ruiz
+                                    </h4>
+                                    <h4>Resumen</h4>
+                                    <p>En esta platica revisamos que es el aprendizaje automático y las técnicas a nuestra disponibilidad para hacer sistemas predictivos e inteligentes. Estas técnicas recaen en ver al mundo como en un objeto matemático, por lo que presentaremos varias alternativas de como representar objetos de nuestra vida cotidiana como tales y que tipo de comportamientos inteligentes podemos programar usando Machine learning.</p>
+                                    <h4>
+                                    BIO:
+                                    </h4>
+                                    <div class="speaker">
+                                        <!--ul class="social-block">
+                                            <li>
+                                                <a href="http://twitter.com/starmilk1"
+                                                target="_blank">
+                                                    <i class="ion-social-twitter"></i>
+                                                </a>
+                                            </li>
+                                        </ul-->
+                                        <p>
+                                            <!--figure class="pull-left">
+                                                <img alt="foto Karla García"
+                                                class="img-responsive img-thumbnail" src="assets/images/speakers/karla-garcia-600.jpg">
+                                            </figure-->
+                                            Investigador Asociado IIMAS-UNAM
+                                        </p>
+                                    </div><!-- termina speaker -->
+                                </div><!-- termina modal-body -->
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                                </div>
+                            </div><!-- termina modal-content -->
+                        </div><!-- termina modal-dialog -->
+                    </div><!-- Termina Modal -->
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="schedule-box">
@@ -479,8 +730,56 @@
                             <time datetime="11:00"></time> - <time datetime="11:30"></time>
                         </div>
                         <h3 class="h3-sp">Rolling Release, el futuro de las distribuciones GNU/Linux a.k.a Tumbleweed</h3>
-                        <p></p>
+                        <p>Instructor: Aarón Luna</p>
+                        <a class="btn btn-white" href="#" data-toggle="modal" data-target="#modalRollingRelease">Más info</a>
                     </div>
+
+                        <!-- Modal -->
+                    <div class="modal fade" id="modalRollingRelease" role="dialog">
+                        <div class="modal-dialog">
+
+                            <!-- Contenido de la ventana modal-->
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    <h4 class="modal-title">Rolling Release, el futuro de las distribuciones GNU/Linux a.k.a Tumbleweed</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <h4>
+                                    Instructor: Aarón Luna
+                                    </h4>
+
+                                    <h4>Resumen:</h4>
+                                    <p>Tumbleweed es la opción “rolling release” de openSUSE. Esto quiere decir que el software de sus repositorios se está actualizando periódicamente, tomando en cuenta esto, se pueden tener actualizaciones semanales. Tendrás siempre lo último del software en sus versiones estables, no tendrás que reinstalar, no tendrás que hacer cosas complicadas para disfrutar del último kernel Linux en tu PC o la última versión de tu entorno de escritorio favorito.</p>
+
+                                    <h4>
+                                    BIO:
+                                    </h4>
+                                    <div class="speaker">
+                                        <h4>Aarón Luna</h4>
+                                        <!--ul class="social-block">
+                                            <li>
+                                                <a href="https://twitter.com/"
+                                                target="_blank">
+                                                    <i class="ion-social-twitter"></i>
+                                                </a>
+                                            </li>
+                                        </ul-->
+                                        <p>
+                                            <figure class="pull-left">
+                                                <img alt="foto Aarón Luna"
+                                                class="img-responsive img-thumbnail" src="assets/images/speakers/aaron-luna-600.jpg">
+                                            </figure>
+                                            Ing. en TI, con especialidad en redes y sistemas operativos GNU/Linux. Embajador oficial de openSUSE en México. Docente en el subsistema de Universidades Tecnológicas y Politécnicas de la SEP. Conferencista y tallerista en eventos nacionales e internacionales.
+                                        </p>
+                                    </div><!-- termina speaker -->
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- Termina Modal -->
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="schedule-box">
@@ -490,6 +789,69 @@
                         <h3 class="h3-sp">Compartiendo código entre aplicaciones Web y Mobile con Nativescript y Angular</h3>
                         <p></p>
                     </div>
+                </div>
+            </div>
+
+            <div class="row row-sp">
+                <div class="col-md-4 col-sm-6">
+                    <div class="schedule-box">
+                        <div class="time">
+                            <time datetime="16:30"></time> - <time datetime="17:30"></time>
+                        </div>
+                        <h3 class="h3-sp">Aprendiendo a amar aprender del Software Libre</h3>
+                        <p>Instructor: Miguel Zuñiga</p>
+                        <a class="btn btn-white" href="#" data-toggle="modal" data-target="#modalAprendiendo">Más info</a>
+                        </div>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="modalAprendiendo" role="dialog">
+                        <div class="modal-dialog">
+
+                            <!-- Contenido de la ventana modal-->
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    <h4 class="modal-title">Aprendiendo a amar aprender del Software Libre</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <h4>
+                                    Instructor: Miguel Zuñiga
+                                    </h4>
+
+                                    <h4>Resumen:</h4>
+                                    <p>Probablemente ya conozcas software libre o incluso lo utilices de cierta manera, sea algún programa, un conjunto de paquetes o hasta un sistema operativo. Esta charla a manera de diálogo con el público es para quienes parece que tienen problemas para sentirse cómodos con software libre respecto a sistemas operativos o programas propietarios, salir del hábito de ocupar lo que se conoce o ganar confianza con lo que se puede hacer con un equipo de cómputo con sofware libre. Se abordarán ejemplos de programas típicos y de utilidades de software libre, buscando compartir experiencias entre los asistentes.</p>
+
+                                    <h4>
+                                    BIO:
+                                    </h4>
+                                    <div class="speaker">
+                                        <h4>Miguel Zuñiga</h4>
+                                        <ul class="social-block">
+                                            <li>
+                                                <a href="https://twitter.com/miguel1mx"
+                                                target="_blank">
+                                                    <i class="ion-social-twitter"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                        <!--p>
+                                            <figure class="pull-left">
+                                                <img alt="foto Mónica Hernández"
+                                                class="img-responsive img-thumbnail" src="assets/images/speakers/monica-hernandez-600.jpg">
+                                            </figure>
+                                             Ing en Tecnologías de la información y comunicaciones, conferencista en temas de tecnologías. Fundadora del medio y comunidad HackerGirl s. Geek, gamer, tech Love.
+                                        </p-->
+                                    </div><!-- termina speaker -->
+
+
+                                    <p></p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                                </div>
+                            </div>
+                        </div>
+                        </div><!-- Termina Modal -->
                 </div>
             </div>
 
@@ -527,9 +889,74 @@
                             <time datetime="16:30"></time> - <time datetime="17:30"></time>
                         </div>
                         <h3 class="h3-sp">Road to DevOps: de SysAdmin a la Nube - Automatización 101</h3>
-                        <p></p>
-
+                        <p>Instructor: Alex Callejas</p>
+                        <a class="btn btn-white" href="#" data-toggle="modal" data-target="#modalRoadDevOps">Más info</a>
                     </div>
+
+                    <!-- Modal -->
+                    <div class="modal fade" id="modalRoadDevOps" role="dialog">
+                        <div class="modal-dialog">
+
+                            <!-- Contenido de la ventana modal-->
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    <h4 class="modal-title">Road to DevOps: de SysAdmin a la Nube - Automatización 101</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <h4>
+                                    Instructor: Alex Callejas
+                                    </h4>
+                                    <h4>Resumen:</h4>
+                                    <p>En esta sesión usted conocerá las amplias capacidades de la automatización con Ansible, no solo como una herramienta para la implementación de soluciones tecnológicas, sino también para la automatización de las actividades de administración cotidianas, desde la perspectiva de un SysAdmin.</p>
+
+                                    <p>Explorará la amplia gama de automatización a través de ejemplos prácticos de las actividades de un SysAdmin:</p>
+
+                                    <ul>
+                                        <li>Administración de usuarios, de red y de almacenamiento</li>
+                                        <li>Perfilado, monitoreo, respaldo</li>
+                                        <li>Personalización, hardening, tuning, troubleshooting</li>
+                                        <li>Y algunas otras tareas</li>
+                                    </ul>
+
+                                    <p>Basado en las mejores prácticas para la administración de sistemas.</p>
+
+                                    <p>Al final de la sesión, usted podrá realizar pruebas de automatización en sus tareas operativas de rutina utilizando la toolbox de DevOps básica: Ansible, git, contenedores y más.</p>
+                                    <h4>
+                                    Público objetivo:
+                                    </h4>
+                                    <p>Esta presentación está diseñado para que los administradores de sistemas comprendan los principios básicos para la adopción de tecnologías en la nube. Mediante la automatización de las tareas cotidianas y el uso de herramientas como Ansible, git y contenedores, se le proporcionará la base necesaria para iniciar la transición al rol de DevOps.</p>
+
+                                    <h4>
+                                    BIO:
+                                    </h4>
+                                    <div class="speaker">
+                                        <h4>Alex Callejas</h4>
+                                        <ul class="social-block">
+                                            <li>
+                                                <a href="https://twitter.com/dark_axl"
+                                                target="_blank">
+                                                    <i class="ion-social-twitter"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                        <p>
+                                            <figure class="pull-left">
+                                                <img alt="foto Alex Callejas"
+                                                class="img-responsive img-thumbnail" src="assets/images/speakers/alex-callejas-600.jpg">
+                                            </figure>
+                                            Es uno de los 20 Technical Account Managers de Red Hat en LATAM, con sede en la Ciudad de México. Con más de 18 años de experiencia en administración de sistemas y en capacitación constante de nuevas tecnologías para acercarlas a sus clientes. Entusiasta del Open Source, apoya a la comunidad dando pláticas de tecnología en diferentes eventos de acceso público y universidades.</p>
+                                    </div><!-- termina speaker -->
+
+
+                                    <p></p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- Termina Modal -->
                 </div>
             </div>
     </section>
@@ -698,10 +1125,96 @@
                             <time datetime="16:30"></time> - <time datetime="17:30"></time>
                         </div>
                         <h3 class="h3-sp">GIT para programadores y no programadores</h3>
-                        <p></p>
+                        <p>Instructores: Jorge Sierra + Karla García + Ricardo Torres</p>
+                        <a class="btn btn-white" href="#" data-toggle="modal" data-target="#modalGitPyNoP">Más info</a>
                     </div>
-                </div>
-            </div>
+                    <!-- Modal -->
+                    <div class="modal fade" id="modalGitPyNoP" role="dialog">
+                        <div class="modal-dialog">
+
+                            <!-- Contenido de la ventana modal-->
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    <h4 class="modal-title">GIT para programadores y no programadores</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <h4>
+                                    Instructores: Jorge Sierra + Karla García + Ricardo Torres
+                                    </h4>
+                                    <h4>Objetivos:</h4>
+                                    <ul>
+                                        <li>Conocer a GIT como herramienta para control de versiones de archivos, usados por programadores, diseñadores, escritores, fotógrafos o cualquiera que haga uso de archivos en cualquier formato.</li>
+                                        <li>Introducir a los asistente al uso de GIT mediante prácticas auto dirigidas</li>
+                                        <li>Mostrar como GIT puede ayudarnos a mejorar nuestro proceso de trabajo</li>
+                                        <li>Mostrar como GIT puede ayudar en el trabajo colaborativo</li>
+                                    </ul>
+                                    <h4>¿Qué aprenderé en este taller?</h4>
+                                    <p>Hablaremos brevemente sobre la historia de GIT, una historia emblemática del Software Libre, instalamos y configuramos el WorkShop de Git-it, iniciamos a las prácticas de GIT, luego hablamos de por qué rayos queremos tener versiones de nuestro trabajo y cuándo es conveniente hacerlas y finalmente realizamos una práctica mostrando el flujo de commits para un equipo de trabajo.</p>
+                                    <h4>
+                                    Requisitos:
+                                    </h4>
+                                    <ul>
+                                        <li>No se requiere de conocimiento previos en GIT o programación</li>
+                                        <li>Se requiere conocimientos básicos sobre instalación de software</li>
+                                        <li>Sobre todo no tener miedo a darle instrucciones a la computadora de forma escrita sin hacer uso del ratón</li>
+                                        <li>Se recomienda que los asistente lleven una memoria usb en caso de no llevar laptop para que puedan llevarse el avance de sus tareas en Git.</li>
+                                    </ul>
+                                    <h4>
+                                    BIOS:
+                                    </h4>
+                                    <div class="speaker">
+                                        <h4>Karla García</h4>
+                                        <ul class="social-block">
+                                            <li>
+                                                <a href="http://twitter.com/starmilk1"
+                                                target="_blank">
+                                                    <i class="ion-social-twitter"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                        <p>
+                                            <figure class="pull-left">
+                                                <img alt="foto Karla García"
+                                                class="img-responsive img-thumbnail" src="assets/images/speakers/karla-garcia-600.jpg">
+                                            </figure>
+                                            Estudio Ciencias de la Computación, llegué ahí porque diverge en muchísimas áreas; la primera vez que programé fue usando un Arduino, el último lenguaje que aprendí fue Go, en toda mi formación he usado Software Libre y en él veo progreso para todas las áreas en las que las Ciencias de la Computación se ha abierto paso. Sólo he dado clases a mis compañeros de primer ingreso de la licenciatura, lo demás me lo han enseñado profesores, compañeros y la comunidad de SL (en la que profesores y maestros están incluídos); hoy quiero aportar una parte de lo mucho que he aprendido, tocó hablar sobre una herramienta para una de la prácticas más útiles al programar: GIT, el controlador de versiones de Linux.</p>
+                                    </div><!-- termina speaker -->
+                                    <div class="speaker">
+                                        <h4>Ricardo Torres</h4>
+                                        <ul class="social-block">
+                                            <li>
+                                                <a href="http://twitter.com/rctorr"
+                                                target="_blank">
+                                                    <i class="ion-social-twitter"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                        <p>
+                                            <figure class="pull-left">
+                                                <img alt="foto Ricardo Torres"
+                                                class="img-responsive img-thumbnail" src="assets/images/speakers/rctorr-600.jpg">
+                                            </figure>
+                                            Apasionado por las ciencias en general, pero en las Ciencias de la
+                                            Computación encontré todo un mundo de conocimiento y desde hace ya
+                                            más de 10 años que escribí mi primer código en una calculadora Casio
+                                            sigo aprendiendo y escribiendo programas, hoy en día uso Python
+                                            principalmente y te dejo de hablar si programas en Java o PHP. Soy
+                                            promotor del Software y Hardware libre desde siempre y que mejor
+                                            manera de hacerlo que dando talleres como pueden ser de HTML5,
+                                            Javascript, Python o Django y ahora también GIT ¿Te anotas?.
+                                            Pd. También soy ciclista y amante de la gastronomía mexicana y más
+                                            si es de la fondita de la esquina.
+                                            </p>
+                                    </div><!-- termina speaker -->
+                                </div><!-- termina modal-body -->
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                                </div>
+                            </div><!-- termina modal-content -->
+                        </div><!-- termina modal-dialog -->
+                </div><!-- Termina Modal -->
+            </div><!-- termina bloque de un taller/charla -->
     </section>
 
 
